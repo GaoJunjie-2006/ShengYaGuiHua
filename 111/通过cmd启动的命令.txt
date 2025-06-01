@@ -1,0 +1,1 @@
+C:\Users\24221\AppData\Local\Programs\Python\Python311\python.exe c:\Users\24221\Desktop\111\2.py
